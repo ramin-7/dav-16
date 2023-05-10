@@ -1,0 +1,241 @@
+** {
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-blue {
+    display: flex;
+    position: absolute;
+    top: 0px;
+width: 850px;
+height: 477px;
+background: #515DEF;
+}
+.main-img {
+    position: absolute;
+    display: flex;
+    justify-content: end;
+   right: 0px;
+   top: 0px;
+}
+.img1 {
+    position: absolute;
+    width: 499px;
+    height: 661px;
+}
+.contact {
+position:absolute;
+width: 140px;
+height:45px;
+background: #515DEF;
+/* Blue */
+color: white;
+border: 1px solid #515DEF;
+margin-right: 50px;
+margin-top: 30px;
+}
+.white-container {
+    position: absolute;
+    width: 998px;
+height: 180px;
+background: #FBFBFB;
+bottom: 0;
+display: flex;
+}
+ul {
+    list-style: none;
+    display: flex;
+    font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+font-family: sans-serif;
+}
+
+
+ul li:nth-child(1) {
+    color: #FBFBFB;
+    font-family: sans-serif;
+ }    
+ ul li:nth-child(2) {
+     color:#1BCFF6;
+     font-family: sans-serif;
+  }
+  ul li:nth-child(3) {
+     color:#FBFBFB;
+     font-family: sans-serif;
+     margin-right: 70px;
+  } 
+  .home {
+    position: absolute;
+    font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #FBFBFB;
+  }
+  nav >a {
+    font-style: normal;
+ font-weight: 400;
+ font-size: 15px;
+ line-height: 27px;
+    display: flex;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  text {
+    display: flex;
+  }
+
+  .text1  {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    color: #FBFBFB;
+    font-family: sans-serif;
+    margin-top: 100px;
+    margin-left: 40px;
+  }
+  .text2 {
+position: absolute;
+width: 564px;
+height: 240px;
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 50px;
+color: #FBFBFB;
+margin-top: 140px;
+font-family: sans-serif;
+margin-left: 40px;
+  }
+  .text3 {
+    position: absolute;
+width:480px;
+height: 140px;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+color: #FBFBFB;
+margin-top: 300px;
+font-family: sans-serif;
+margin-left: 40px;
+  }
+  .mini-white-cont {
+display: flex;
+    position: absolute;
+    width: 209px;
+height: 50px;
+background: #FBFBFB;
+margin-left: 40px;
+margin-top: 370px;
+outline: none;
+border: none;
+padding-right: 10px;
+align-items: center;
+justify-content: center;
+  }
+  .arrow {
+    width: 28px;
+height: 48px;
+margin-left: 20px;
+  }
+  .scroll {
+    position: absolute;
+    width: 40px;
+height: 89px;
+top: 55px;
+left: 20px;
+  }
+  .Web-Design {
+    position: absolute;
+    width: 64px;
+height: 64px;
+top: 10px;
+left: 90px;
+
+  }
+  .text-white-cont-1 {
+    position: absolute;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 17px;
+    color: #333333;
+    top: 75px;
+left: 95px;
+font-family: sans-serif;
+  }
+  .text-white-cont-2 {
+    position: absolute;
+    width: 208px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 17px;
+    color: #909090;
+    top: 100px;
+    left: 95px;
+    font-family: sans-serif;
+  }
+  .Social-Media {
+    position: absolute;
+    top: 10px;
+    left: 395px;
+    
+  }
+  .text-white-1 {
+    position: absolute;
+    width: 208px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 17px;
+    color: #333333;
+    top: 70px;
+    left: 395px;
+    font-family: sans-serif;
+  }
+  .text-white-2 {
+    position: absolute;
+    width: 208px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 17px;
+    color: #909090;
+    top: 100px;
+    left: 395px;
+    font-family: sans-serif;
+  }
+  .Design {
+    position: absolute;
+    top: 10px;
+    left: 695px;
+  }
+  .text-white-Design1 {
+    position: absolute;
+    width: 208px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 17px;
+    color: #333333;
+    top: 70px;
+    left: 695px;
+    font-family: sans-serif;
+  }
+  .text-white-Design2 {
+    position: absolute;
+    width: 208px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 17px;
+    color: #909090;
+    top: 100px;
+    left: 695px;
+    font-family: sans-serif;
+  }
